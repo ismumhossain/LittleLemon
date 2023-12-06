@@ -89,8 +89,8 @@ DATABASES = {
         'NAME': 'LittleLemon',
         'HOST' : '127.0.0.1',
         'PORT' : '3306',
-        'USER' : 'admindjango',
-        'PASSWORD' : 'employee@123!',
+        'USER' : '',
+        'PASSWORD' : '',
     }
 }
 
